@@ -15,3 +15,7 @@ Directly in Postman (Body>Raw>JSON) :
 ### Get all sports : GET : http://localhost:8080/sports
 
 ### Get a sport : GET : http://localhost:8080//sports/{sportId}
+
+![](https://prnt.sc/t30fbw)
+
+Inspired by : https://sports.api.decathlon.com/sports/natation
