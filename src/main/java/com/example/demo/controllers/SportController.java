@@ -48,7 +48,7 @@ public class SportController {
         return this.sportService.getAllSports();
     }
 
-    // add a sport
+    // Add a sport
     @RequestMapping(value = "/sports", method = RequestMethod.POST)
     @ResponseStatus(HttpStatus.OK)
     void addSport(@RequestBody Sport sport){
