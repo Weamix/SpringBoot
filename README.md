@@ -12,10 +12,12 @@ Directly in Postman (Body>Raw>JSON) :
 }
 ```
 
+![](https://i.ibb.co/525jY5f/Screenshot-at-Jun-19-23-55-20.png)
+
 ### Get all sports : GET : http://localhost:8080/sports
 
-### Get a sport : GET : http://localhost:8080//sports/{sportId}
-
 ![](https://i.ibb.co/DbNhyk2/te-le-chargement-1.png)
+
+### Get a sport : GET : http://localhost:8080//sports/{sportId}
 
 Inspired by : https://sports.api.decathlon.com/sports/natation
