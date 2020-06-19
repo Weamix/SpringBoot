@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DemoApplication {
 
-	// run : ./mvnw spring-boot:run
+	// run : ./mvnw spring-boot:runG
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
