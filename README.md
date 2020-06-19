@@ -18,6 +18,6 @@ Directly in Postman (Body>Raw>JSON) :
 
 ![](https://i.ibb.co/DbNhyk2/te-le-chargement-1.png)
 
-### Get a sport : GET : http://localhost:8080//sports/{sportId}
+### Get a sport : GET : http://localhost:8080//sports/{sportId}. 
 
 Inspired by : https://sports.api.decathlon.com/sports/natation
