@@ -1,4 +1,4 @@
-# SpringBoot
+# Spring Boot API
 
 ## Run : ./mvnw spring-boot:runG
 
